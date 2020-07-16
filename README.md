@@ -45,7 +45,7 @@
     </tr>
     <tr>
 	    <td><a href="https://github.com/netojose/react-modal">React Modal</a></td>
-        <td><img alt="Stars" src="https://flat.badgen.net/npm/dt/@netojose/react-google-places-typeahead"/></td>
+        <td><img alt="Stars" src="https://flat.badgen.net/npm/dt/@netojose/react-modal"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/netojose/react-modal?style=flat-square"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/netojose/react-modal?style=flat-square"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/netojose/react-modal?style=flat-square"/></td>
