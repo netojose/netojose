@@ -20,7 +20,7 @@
   </thead>
   <tbody>
     <tr>
-	    <td><a href="https://github.com/netojose/laravel-bootstrap-4-forms">Bootstrap 4 forms for Laravel 5/6/7</a></td>
+	    <td><a href="https://github.com/netojose/laravel-bootstrap-4-forms">Bootstrap 4 forms for Laravel 5-8</a></td>
         <td><img alt="Stars" src="https://img.shields.io/packagist/dt/netojose/laravel-bootstrap-4-forms?style=flat-square"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/netojose/laravel-bootstrap-4-forms?style=flat-square"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/netojose/laravel-bootstrap-4-forms?style=flat-square"/></td>
@@ -65,4 +65,12 @@
 
 ### GitHub Stats
 
-[![José Neto's github stats](https://github-readme-stats.vercel.app/api?username=netojose&show_icons=true)](https://github.com/netojose)
+[![José Neto's GitHub stats](https://github-readme-stats.vercel.app/api?username=netojose&show_icons=true)](https://github.com/netojose)
+
+_stats from public repositories_
+
+### Most Used Languages
+
+[![José Neto's GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=netojose&layout=compact)](https://github.com/netojose)
+
+_stats from public repositories_
